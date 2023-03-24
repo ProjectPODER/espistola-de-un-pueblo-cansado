@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documentación
+title: Reportaje
 permalink: /documentacion/
 ---
 

@@ -1,3 +1,47 @@
+body {
+    background-color: #181818;
+    color: #fff;
+}
+
+#contracts_page {
+    ::placeholder {
+        /* Chrome, Firefox, Opera, Safari 10.1+ */
+        color: rgba(255, 255, 255, 0.7);
+        opacity: 1;
+        /* Firefox */
+    }
+
+    :-ms-input-placeholder {
+        /* Internet Explorer 10-11 */
+        color: rgba(255, 255, 255, 0.7);
+    }
+
+    ::-ms-input-placeholder {
+        /* Microsoft Edge */
+        color: rgba(255, 255, 255, 0.7);
+    }
+    .form-control {
+        color: rgba(255, 255, 255, 0.7);
+    }
+    input, .form-control {
+        background-color: #222325 !important;
+    }
+    #contracts_search {
+        tbody tr {
+            background-color: #222325;
+        }
+    }
+    .dataTables_wrapper .dataTables_paginate .paginate_button {
+        color: $primary !important;
+    }
+}
+.gj-picker {
+    background-color: #181818 !important;
+    color: #fff !important;
+}
+.today div {
+    color: $primary !important;
+}
 
 section.page,
 section.posts-page,

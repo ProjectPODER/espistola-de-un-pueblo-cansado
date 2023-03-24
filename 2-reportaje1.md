@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guía de estilo
+title: Reportaje
 permalink: /guia-de-estilo/
 ---
 

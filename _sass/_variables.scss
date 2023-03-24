@@ -13,13 +13,13 @@ $gray-600: #6c757d !default;
 $gray-700: #495057 !default;
 $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
-$black:    #000 !default;
+$black:    #181818 !default;
 
 $blue:    #27408B !default;
 $indigo:  #6610f2 !default;
 $purple:  #6f42c1 !default;
 $pink:    #e83e8c !default;
-$red:     #dc3545 !default;
+$red:     #CC001E !default;
 $orange:  #fd7e14 !default;
 $yellow:  #ffc107 !default;
 $green:   #28a745 !default;
@@ -50,7 +50,7 @@ $graphTooltipTitleColor: $info;
 // Style anchor elements.
 $link-color:                $primary !default;
 $link-decoration:           none !default;
-$link-hover-color:          darken($link-color, 15%) !default;
+$link-hover-color:          darken($link-color, 80%) !default;
 $link-hover-decoration:     underline !default;
 
 
@@ -69,6 +69,6 @@ $font-size-lg:                ($font-size-base * 1.25) !default;
 $font-size-sm:                ($font-size-base * .875) !default;
 
 // Preloader colors
-$preloader-color1: #1ee6d3;
-$preloader-color2: #343a40;
+$preloader-color1: $gray-500;
+$preloader-color2: $black;
 $preloader-color3: $primary;
