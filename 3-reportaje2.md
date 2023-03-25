@@ -1,11 +1,5 @@
 ---
 layout: page
 title: Reportaje
-permalink: /documentacion/
+permalink: /2023/03/31/juarez-el-laboratorio-del-futuro-distopico.html
 ---
-
-# Documentación
-
-Aprende cómo generar sitios web como Tower Builder con nuestra documentación:
-
-[https://towerbuilder.readthedocs.io/es/latest/index.html](https://towerbuilder.readthedocs.io/es/latest/index.html)
