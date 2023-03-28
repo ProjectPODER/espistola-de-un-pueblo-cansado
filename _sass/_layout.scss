@@ -3,6 +3,11 @@ body {
     color: #fff;
 }
 
+// @font-face {
+//     font-family: bison;
+//     src: url("../assets/font/Bison-Bold.ttf");
+// }
+
 #contracts_page {
     ::placeholder {
         /* Chrome, Firefox, Opera, Safari 10.1+ */
@@ -51,7 +56,8 @@ section#contracts_page {
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-weight: bold;
+    // font-weight: bold;
+    font-family: 'Anton', sans-serif;
 }
 
 blockquote {
@@ -72,4 +78,8 @@ a {
 
 .min-vh-100 {
     min-height: 100vh !important;
+}
+
+.embed-responsive-custom::before {
+    padding-top: 60%;
 }

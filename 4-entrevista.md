@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Entrevista
-permalink: /entrevista/
+title: Entrevistas
+permalink: /entrevistas/
 ---
 
-# Entrevista
+# Entrevistas
