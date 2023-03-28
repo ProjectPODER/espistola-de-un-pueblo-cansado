@@ -8,7 +8,7 @@ permalink: /sobre-el-proyecto/
 
 La Organización Fuerza Estudiantil (OFE), conformada por estudiantes de la Facultad de Economía de la Universidad Nacional Autónoma de México (UNAM) realizó el proyecto, Espístola de un pueblo cansado, con el objetivo de mostrar el tiempo promedio que tarda una persona que trabaja en la manufactura en generar su salario dentro de la jornada laboral (Explotación Laboral).
 
-En este estudio y reportaje periodístico, que se realizó de la mano del área de Investigación y Periodismo de PODER,  pretendemos brindar una visión de las condiciones laborales de las personas trabajadoras de la industria manufacturera en México. Mostramos, a grandes rasgos, la relación entre la parte del tiempo que dedica para generar su salario comparado con el que se va para la riqueza del patrón dentro del jornada laboral.
+En este estudio y reportaje periodístico, que se realizó de la mano del área de Investigación y Periodismo de [PODER](https://poderlatam.org/),  pretendemos brindar una visión de las condiciones laborales de las personas trabajadoras de la industria manufacturera en México. Mostramos, a grandes rasgos, la relación entre la parte del tiempo que dedica para generar su salario comparado con el que se va para la riqueza del patrón dentro del jornada laboral.
 
 Los resultados muestran la explotación laboral de manera numérica y reflejan la vida diaria de las personas que laboran en la manufactura. Esta situación nacional evidencia que incluso con la legislación actual, la condición del trabajador es precaria y contradictoria a lo que dice la propia legislación, que termina por beneficiar a los intereses de los grandes empresarios del sector.
 
@@ -21,15 +21,15 @@ Con este trabajo l@s estudiantes y periodistas que conformamos la OFE pretendemo
 ### ¿Qué información encontrarás?:
 
 
-- Cuáles son las entidades con mayor Tasa de Explotación del país y qué significa.
+- **Cuáles son las entidades con mayor Tasa de Explotación del país y qué significa.**
 
-- Qué sectores de la industria de manufactura son quienes se ven beneficiados por esta situación.
+- **Qué sectores de la industria de manufactura son quienes se ven beneficiados por esta situación.**
 
 Agricultura, explotación de animales, pesca, extracción de petroleo, minería, agroindustria, industria alimentaria, industria de bebidas, textileras (de vestir y sólo telas), curtido, tala, madera y derivados, refinerías, minería no metálica, industria química, plásticos, industria metálica, maquinaria, fabricación de hardware, accesorios electrónicos, equipo de transporte y fabricación de muebles.
 
-- División del valor del trabajo por género
+- **División del valor del trabajo por género**
 
-- Transferencia de valor: ¿Por qué en entidades fronterizas el valor del trabajo, respecto a la tasa, es menor? Aquí agregamos el valor de las exportaciones.
+- **Transferencia de valor: ¿Por qué en entidades fronterizas el valor del trabajo, respecto a la tasa, es menor? Aquí agregamos el valor de las exportaciones.**
 
 El concepto de la transferencia de valor ocurre cuando un país extrae mayores recursos dado que el valor de la fuerza de trabajo tiene mayor cotización en su mercado.
 La data:
@@ -48,10 +48,13 @@ Para este proyecto, PODER, analizó información referente a los años que compr
 
 ### Fuentes:
 
-Solicitudes de acceso a la información a:  IMSS, STyPS, Cámara de Diputados, INEGI.
-Bases de datos: INEGI, Banxico, PNT
-Solicitud de entrevista: Cámara de diputados, Comisión Nacional de Salarios Mínimos, Activistas, Obreras, abogadas laboristas, periodistas y personas defensoras de derechos humanos.
-Documentos del Archivo General de la Nación (AGN): Expedientes de la Dirección Federal de Seguridad.
+**Solicitudes de acceso a la información a:**  IMSS, STyPS, Cámara de Diputados, INEGI.
+
+**Bases de datos:** INEGI, Banxico, PNT
+
+**Solicitud de entrevista:** Cámara de diputados, Comisión Nacional de Salarios Mínimos, Activistas, Obreras, abogadas laboristas, periodistas y personas defensoras de derechos humanos.
+
+**Documentos del Archivo General de la Nación (AGN):** Expedientes de la Dirección Federal de Seguridad.
 
 <br>
 
@@ -62,7 +65,7 @@ Documentos del Archivo General de la Nación (AGN): Expedientes de la Dirección
 - Coordinación Académica: Samuel Rosado y Octavio Rosas-landa
 - Coordinación Técnica: Marisol Carrillo y Samuel Rosado
 - Edición: Fernanda Hopenhaym
-- Investigadorxs: Hannia Paola Martínez Olmos, Jesús Abraham Jiménez Olvera, Erick Romero Morales, Edwin Valencia Galván y Martha Jocelyne De los Ríos Gómez.
+- Investigadorxs: Hannia Paola Martínez Olmos, Jesús Abraham Jiménez Olvera, Erick Romero Morales, Edwin Valencia Galván, Adriana Martínez Rodríguez y Martha Jocelyne De los Ríos Gómez.
 - Análisis de datos: Samuel Rosado y Ricardo Balderas
 - Diseño gráfico y desarrollo front-end: Marisol Carrillo
 - Desarrollo back-end: Marisol Carrillo
