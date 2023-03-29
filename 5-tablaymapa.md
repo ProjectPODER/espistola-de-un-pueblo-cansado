@@ -13,8 +13,8 @@ permalink: /tabla/
         <thead class="thead-light">
             <tr>
                 <th>Entidad</th>
-                <th>VFTMin</th>
-                <th>VFTMinEx</th>
+                <th>Valor Nacional</th>
+                <th>Exportaciones</th>
             </tr>
         </thead>
         <tbody>
@@ -197,3 +197,8 @@ Por un lado tenemos con respecto a producción nacional registrada en pesos y po
 
 
 *Créditos: Samuel Rosado y Ricardo Balderas*
+
+<div class="text-center">
+    <a class="btn btn-primary" href="https://codeberg.org/samsamros/explotacion-laboral-rs/src/branch/integracion" role="button" target="_blank">Descarga aquí el código de los datos</a>
+</div>
+<br>
