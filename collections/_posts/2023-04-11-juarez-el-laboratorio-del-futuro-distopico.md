@@ -31,25 +31,25 @@ Debido a que lo producido por la industria de la manufactura (maquilas) es expor
 <div id="carouselControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/CUIDADOHIJ.png" alt="First slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/CUIDADOHIJ.svg" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/ESCOLARIDAD.png" alt="Second slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/ESCOLARIDAD.svg" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/FORMALIDAD.png" alt="Third slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/FORMALIDAD.svg" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/MujeresvsHombresManufactura.png" alt="Third slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/MujeresvsHombresManufactura.svg" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/SALARIOSMINIMOS.png" alt="Third slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/SALARIOSMINIMOS.svg" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/SeguridadSocial.png" alt="Third slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/SeguridadSocial.svg" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/TIPOCONTRATO.png" alt="Third slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/TIPOCONTRATO.svg" alt="Third slide">
     </div>
   </div>
   <div class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
@@ -77,7 +77,7 @@ Entonces, más allá de los números, el periodismo local continúa realizando e
 “El gran reto, o el reto mayor, es el de contar lo que ocurre, contar la verdad. Es muy difícil conseguir información sobre lo que ocurre dentro de las empresas. (...) Por varias cosas pero principalmente por la violencia económica a la que estamos sujetos todos en este país”, explica Gallegos.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://youtu.be/V0d_S4bieh8" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/V0d_S4bieh8" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 </div>
 <br>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Espístola de un pueblo cansado
+title: Epístola de un pueblo cansado
 author: "Ricardo Balderas"
 ---
 
@@ -9,7 +9,7 @@ De la maquinaría al dormitorio, la vida en una fábrica para cualquier mexicano
 Debido a esto, el proyecto para impulsar a la industria de manufactura en el país que implementado a finales de los años setentas (1964) del siglo pasado[^nota1] y operado desde los cónclaves más profundos de la frontera norte[^nota2], se encuentra en un estado de alarma por las condiciones laborales a las que se le somete a todas las personas que pasan por alguno de los andadores de estos colosos de la producción. Ya que, no sólo el valor monetario del trabajo se ha devaluado, también las condiciones que ofrecen las empresas, a los y las trabajadoras, son peores que las de hace algunos años.
 
 {:.image-post}
-![*Crédito: Autogenerado por PODER con datos del INEGI, Samuel Rosado.*]({{ site.baseurl }}/assets/img/MINNECSALARIO.png)
+![*Crédito: Autogenerado por PODER con datos del INEGI, Samuel Rosado.*]({{ site.baseurl }}/assets/img/MINNECSALARIO.svg)
 
 *Crédito: Autogenerado por PODER con datos del INEGI, Samuel Rosado.*
 
@@ -30,7 +30,7 @@ Relación de salarios por sexenio. A cuánto ascendía el salario mínimo para l
 *Créditos: Samuel Rosado y Ricardo Balderas*
 
 <br>
-De modo que, con los datos reportados de manera oficial, podemos saber cuántos trabajadores del sector manufactura existen, cuánto tiempo trabajan al día, cuánto ganan esos trabajadores por hora, la identidad de género de las personas que trabajan, qué tipo de contrato tienen, en qué tipo de industria opera y en dónde, a cuánto dinero equivale la producción de estos obreros y en cuánto tiempo se genera esa producción. 
+De modo que, con los datos reportados de manera oficial, podemos saber cuántos trabajadores del sector manufactura existen, cuánto tiempo trabajan al día, cuánto ganan esos trabajadores por hora, la identidad de género de las personas que trabajan, qué tipo de contrato tienen, en qué tipo de industria opera y en dónde, a cuánto dinero equivale la producción de estos obreros y en cuánto tiempo se genera esa producción.
 
 Lo que no podemos saber con exactitud, es cuánto dinero termina como ganancia. Es decir, lo que los dueños del capital (industria) producen con el esfuerzo del trabajador.
 
@@ -40,13 +40,13 @@ Sin embargo, para la diputada y abogada laborista, integrante de la Comisión de
 
 PODER solicitó entrevista a las oficinas de la CONASAMI para solicitar los estudios con los cuales se avalaron los últimos aumentos salariales (cuatro sexenios), no obstante, al cierre de está edición no tuvimos respuesta.
 
-Sobre la información respecto a las empresas que lucran con el trabajo obrero. Con la información que actualmente es pública en el INEGI, no podemos saber exactamente a cuánto ascienden las ganancias de este sector, únicamente es posible calcular aproximados debido a que los corportativos no están obligados a reportar ganancias. A pesar de ello, estas empresas son constantemente señaladas en casos de trata con fines explotación, tráfico de drogas y violaciones a los derechos medioambientales. 
+Sobre la información respecto a las empresas que lucran con el trabajo obrero. Con la información que actualmente es pública en el INEGI, no podemos saber exactamente a cuánto ascienden las ganancias de este sector, únicamente es posible calcular aproximados debido a que los corportativos no están obligados a reportar ganancias. A pesar de ello, estas empresas son constantemente señaladas en casos de trata con fines explotación, tráfico de drogas y violaciones a los derechos medioambientales.
 
 Los registros del INEGI, que sí son públicos, se limitan a definir el comportamiento de las poblaciones dentro de la industria pero no existen reglamentos o leyes que obliguen a las empresas a reportar de manera pública, cuánto ganan con esta explotación y cuánto dinero dejan al Estado. Eso, es considerado parcialmente confidencial.
 
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=L8ItxeGGuDg" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/L8ItxeGGuDg" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 </div>
 <br>
 *Créditos: Ricardo Balderas*
@@ -55,7 +55,11 @@ Lo anterior resulta preocupante dado que, de no reportar ganancias, resulta impo
 
 Pero la opacidad no es endémica de los aparatos laboristas del Estado (CONASAMI o STyPS) el propio Congreso de la Unión, según lo declarado a este medio de comunicación, estipula que a pesar de contemplar con un área especifica de estudios legislativos con el cual los asambleístas pueden contar con asesoría especializada en caso de requerir información sobre cualquier tema o ley, su reglamento interno, niega a la ciudadanía la posibilidad de tener acceso a dicha información sobre estudios solicitados por las diferentes fracciones parlamentarias previamente a la aprobación de una ley.
 
-[PNT_CEDIP]
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="{{ site.baseurl }}/assets/1636.pdf" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+</div>
+<br>
+
 *Crédito: Ricardo Balderas*
 
 También se niegan entregar información, solicitada vía Plataforma Nacional de Acceso a a la Información, sobre su lista de asistencia al recinto legislativo por lo que resulta imposible saber si siquiera estuvieron presentes durante las sesiones.
@@ -88,7 +92,29 @@ explotación bajo la primera forma es de 226%, mientras que en relación con el 
 
 Visto desde una jornada diaria de 8 horas, le trabajador cubriría su salario en tan solo 17.44 minutos y las restantes 7 horas y 42 minutos son tiempo dedicado a la riqueza de una empresa extranjera.
 
-[Galería_De_resultados: https://share.mayfirst.org/s/tasNNjdzGfrFNyT]
+<div id="carouselControls3" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/15.34.08.jpeg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/15.34.08 (1).jpeg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/15.34.08 (2).jpeg" alt="Third slide">
+    </div>
+  </div>
+  <div class="carousel-control-prev" href="#carouselControls3" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </div>
+  <div class="carousel-control-next" href="#carouselControls3" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </div>
+</div>
+<br>
+
 *Créditos: Samuel Rosado*
 
 A esto, es decir al abuso del tiempo y fuerza de trabajo, se le denomina “explotación laboral”. Por lo menos así lo identifica una de las abogadas laboristas con mayor trayectoria contra la industria de la maquila, y actual diputada federal, Susana Prieto Terrazas. Quien también advierte de una crisis de pensiones derivada por una parte por la falta de registro adecuado de los trabajadores al Instituto Mexicano del Seguro Social (IMSS) y por el otro, la precarización del valor del trabajo.
@@ -106,7 +132,7 @@ La abogada y académica comenta para PODER que existen, conceptualmente, dos man
 “La ruta sigue siendo la del sindicalismo. Es la única manera de encargarnos colectivamente de nuestros derechos. Yo sí le daría un voto de confianza. (…) existe este grupo de empresas grandes y transnacionales que llegan, precisamente de otros países, y que a partir de estas situaciones también se hacen modificaciones a nuestra Constitución, se hacen modificaciones del concepto de trabajo para poder en este caso, proteger en este caso a estos empleadores o industrias”, explica la abogada. A esto se le conoce como Lobby, un grupo no definido de personas que impulsan privilegios para las empresas desde los congresos locales y nacionales.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://youtu.be/YnSAEFj4Opk" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YnSAEFj4Opk" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 </div>
 <br>
 *Crédito: Ricardo Balderas*

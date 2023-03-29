@@ -9,17 +9,17 @@ permalink: /entrevistas/
   <div class="row mb-5">
     <div class="col-sm">
       <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://youtu.be/L8ItxeGGuDg" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/V0d_S4bieh8" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
       </div>
     </div>
     <div class="col-sm">
       <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://youtu.be/YnSAEFj4Opk" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YnSAEFj4Opk" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
       </div>
     </div>
     <div class="col-sm">
       <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://youtu.be/V0d_S4bieh8" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/L8ItxeGGuDg" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
       </div>
     </div>
   </div>
