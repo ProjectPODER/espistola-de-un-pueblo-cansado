@@ -51,7 +51,11 @@ Lo anterior resulta preocupante dado que, de no reportar ganancias, resulta impo
 
 Pero la opacidad no es endémica de los aparatos laboristas del Estado (CONASAMI o STyPS) el propio Congreso de la Unión, según lo declarado a este medio de comunicación, estipula que a pesar de contemplar con un área especifica de estudios legislativos con el cual los asambleístas pueden contar con asesoría especializada en caso de requerir información sobre cualquier tema o ley, su reglamento interno, niega a la ciudadanía la posibilidad de tener acceso a dicha información sobre estudios solicitados por las diferentes fracciones parlamentarias previamente a la aprobación de una ley.
 
-[PNT_CEDIP]
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="{{ site.baseurl }}/assets/1636.pdf" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+</div>
+<br>
+
 *Crédito: Ricardo Balderas*
 
 También se niegan entregar información, solicitada vía Plataforma Nacional de Acceso a a la Información, sobre su lista de asistencia al recinto legislativo por lo que resulta imposible saber si siquiera estuvieron presentes durante las sesiones.
