@@ -6,16 +6,16 @@ author: "Ricardo Balderas"
 
 De la maquinaría al dormitorio, la vida en una fábrica para cualquier mexicano, implica una realidad particular, una ya muy insostenible por la constante depreciación del valor a la fuerza de trabajo. En el país, según lo revelan datos del Instituto Nacional de Geografía y Estadística (INEGI) y analizados por PODER, el promedio de tiempo en que un obrero, que labora en la industria de la manufactura, produce el valor total de su salario es de 24.67 minutos. El resto, es decir, 455.33 minutos, son la riqueza que termina en manos del empleador.
 
-Debido a esto, el proyecto para impulsar a la industria de manufactura en el país, implementado a finales de los años setentas (1964) del siglo pasado[^nota1] y operado desde los cónclaves más profundos de la frontera norte[^nota2], se encuentra en un estado de alarma por las condiciones laborales a las que se le somete a todas las personas que pasan por alguno de los andadores de estos colosos de la producción. Ya que, no sólo el valor monetario del trabajo se ha devaluado, también las condiciones que ofrecen las empresas, a los y las trabajadoras, son peores que las de hace algunos años.
+Debido a esto, el proyecto para impulsar a la industria de manufactura en el país que implementado a finales de los años setentas (1964) del siglo pasado[^nota1] y operado desde los cónclaves más profundos de la frontera norte[^nota2], se encuentra en un estado de alarma por las condiciones laborales a las que se le somete a todas las personas que pasan por alguno de los andadores de estos colosos de la producción. Ya que, no sólo el valor monetario del trabajo se ha devaluado, también las condiciones que ofrecen las empresas, a los y las trabajadoras, son peores que las de hace algunos años.
 
 {:.image-post}
 ![*Crédito: Autogenerado por PODER con datos del INEGI, Samuel Rosado.*]({{ site.baseurl }}/assets/img/MINNECSALARIO.png)
 
 *Crédito: Autogenerado por PODER con datos del INEGI, Samuel Rosado.*
 
-Ante lo evidente, una de las primeras acciones del gobierno morenista, liderado por actual presidente Andrés Manuel López Obrador (AMLO), fue la de elevar el monto de lo que se conoce como Salario Mínimo, o bien, Unidad de Medida y Actualización (UMA). Está política, la de integrar el valor de las UMAS en todas las regiones del país y aumentar los montos mínimos de percepción, significó el aumento salarial más alto de los últimos 40 años para México, 76.78%.
+Ante lo evidente, una de las primeras acciones del gobierno del partido Morena, liderado por actual presidente Andrés Manuel López Obrador (AMLO), fue la de elevar el monto de lo que se conoce como Salario Mínimo, o bien, Unidad de Medida y Actualización (UMA). Está política, la de integrar el valor de las UMAS en todas las regiones del país y aumentar los montos mínimos de percepción, significó para los trabajadores el aumento salarial más alto de los últimos 40 años, es decir 76.78%.
 
-Dicho monto fue mucho mayor, incluso, al ocurrido con el autodenominado *"presidente del empleo"*, Felipe Calderón Hinojosa quien durante su gestión incremento en 28.6% los sueldos de las personas trabajadoras. Sin embargo, la medida resulta ineficiente dadas las altas tasas de inflación y la omisión de las autoridades por implementar medidas que logren una recaudación eficiente. De modo que, además de insuficiente, en el país (y ya con Obrador en la Silla Presidencial), se continúa protegiendo a la industria de manufactura que, año con año, confabula junto a políticos para someter a los y las trabajadoras de México a una pobreza de la que ya resulta imposible salir.
+Dicho monto fue mucho mayor, incluso, al ocurrido con el autodenominado *"presidente del empleo"*, Felipe Calderón Hinojosa quien durante su gestión incremento en tan sólo 28.6% los sueldos de las personas trabajadoras. Sin embargo, la medida obredorista resulta ineficiente dadas las altas tasas de inflación en el país y la omisión de las autoridades por implementar medidas que logren una recaudación eficiente a la industria. De modo que, además de insuficiente, en México (y ya con Obrador en la Silla Presidencial), se continúa protegiendo a la industria de manufactura que, año con año, confabula junto a políticos para someter a los y las trabajadoras de México a una pobreza de la que ya resulta relativamente imposible salir.
 
 #### Línea del tiempo
 
@@ -30,19 +30,23 @@ Relación de salarios por sexenio. A cuánto ascendía el salario mínimo para l
 *Créditos: Samuel Rosado y Ricardo Balderas*
 
 <br>
-De modo que, con los datos reportados de manera oficial, podemos saber cuántos trabajadores del sector manufactura existe, cuanto tiempo trabajan al día, cuanto ganan esos trabajadores por hora, la identidad de género de las personas que trabajan, qué tipo de contrato tienen, en qué tipo de industria opera y en dónde, a cuánto dinero equivale la producción de estos obreros y en cuánto tiempo se genera esa producción. Lo que no podemos saber, es cuánto dinero termina como ganancia. Es decir, lo que los dueños del capital producen con el esfuerzo del trabajador.
+De modo que, con los datos reportados de manera oficial, podemos saber cuántos trabajadores del sector manufactura existen, cuánto tiempo trabajan al día, cuánto ganan esos trabajadores por hora, la identidad de género de las personas que trabajan, qué tipo de contrato tienen, en qué tipo de industria opera y en dónde, a cuánto dinero equivale la producción de estos obreros y en cuánto tiempo se genera esa producción. 
 
-Sin embargo, para la diputada y abogada laborista integrante de la Comisión del Trabajo en la Cámara Baja, Susana Prieto Terrazas, el problema radica principalmente en que los gobiernos terminan trabajando para las empresas y no para la población. Desde su perspectiva, la Comisión Nacional de Salarios Mínimos (CONASAMI) ha operado desde su fundación a favor de las empresas y no de los trabajadores. Por ese motivo, los trabajadores se encuentran plenamente registrados, mientras que los empresarios se ven protegidos por sindicatos que no velan por las necesidades de quienes los conforman.
+Lo que no podemos saber con exactitud, es cuánto dinero termina como ganancia. Es decir, lo que los dueños del capital (industria) producen con el esfuerzo del trabajador.
 
-“Desafortunadamente todos los gobierno trabajan para el sector empresarial. Aquí hay que preguntarle a esta organización tripartita que contituye el Presidente de la República, los representantes de los obreros que son la CTM, la CROC, la CATEM, pero que realmente son el brazo derecho de los empresarios o de los departamentos de recursos humanos y a esos empresarios, en cuánto vamos a aumentar el salario mínimo, porque así está constituida la Comisión Nacional de Salarios Mínimos desde la Ley Federal del Trabajo. De sindicatos abiertamente priistas”, explica Prieto Terrazas.
+Sin embargo, para la diputada y abogada laborista, integrante de la Comisión del Trabajo en la Cámara Baja, Susana Prieto Terrazas, el problema radica principalmente en que los gobiernos terminan operando para las empresas y no para la población a la que dicen representar. Desde su perspectiva, la Comisión Nacional de Salarios Mínimos (CONASAMI) ha trabajado desde su fundación a favor de las empresas y no de los trabajadores. Por ese motivo, la población económicamente activa (otra expresión usada para referirse al obrero de manufactura) se encuentran plenamente registrados; mientras que los empresarios, se ven protegidos por funcionarios públicos y sindicatos que no velan por las necesidades de quienes los conforman.
 
-PODER solicitó entrevista a las oficinas de la CONASAMI para solicitar los estudios con los cuales se avalaron los últimos aumentos salariales, no obstante, al cierre de está edición no tuvimos respuesta.
+“Desafortunadamente todos los gobiernos trabajan para el sector empresarial. Aquí hay que preguntarle a esta organización tripartita que constituye el Presidente de la República; los representantes de los obreros que son la CTM, la CROC, la CATEM, (antiguos sindicatos formados durante el periodo del Partido de Estado) pero que realmente son el brazo derecho de los empresarios o de los departamentos de recursos humanos y a esos empresarios, en cuánto vamos a aumentar el salario mínimo, porque así está constituida la Comisión Nacional de Salarios Mínimos desde la Ley Federal del Trabajo. De sindicatos abiertamente priistas”, explica Prieto Terrazas.
 
-Sobre la información respecto a las empresas que lucran con el trabajo obrero, con la información que actualmente es pública, no podemos saber a cuánto ascienden las ganancias de este sector que constantemente se encuentra inmiscuido en casos de trata con fines explotación, tráfico de drogas y violaciones a los derechos medioambientales. Los registros del INEGI se limitan a definir el comportamiento de las poblaciones dentro de la industria pero no existen reglamentos o leyes que obliguen a las empresas a reportar ganancias.
+PODER solicitó entrevista a las oficinas de la CONASAMI para solicitar los estudios con los cuales se avalaron los últimos aumentos salariales (cuatro sexenios), no obstante, al cierre de está edición no tuvimos respuesta.
+
+Sobre la información respecto a las empresas que lucran con el trabajo obrero. Con la información que actualmente es pública en el INEGI, no podemos saber exactamente a cuánto ascienden las ganancias de este sector, únicamente es posible calcular aproximados debido a que los corportativos no están obligados a reportar ganancias. A pesar de ello, estas empresas son constantemente señaladas en casos de trata con fines explotación, tráfico de drogas y violaciones a los derechos medioambientales. 
+
+Los registros del INEGI, que sí son públicos, se limitan a definir el comportamiento de las poblaciones dentro de la industria pero no existen reglamentos o leyes que obliguen a las empresas a reportar de manera pública, cuánto ganan con esta explotación y cuánto dinero dejan al Estado. Eso, es considerado parcialmente confidencial.
 
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://youtu.be/L8ItxeGGuDg" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=L8ItxeGGuDg" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 </div>
 <br>
 *Créditos: Ricardo Balderas*
@@ -51,11 +55,7 @@ Lo anterior resulta preocupante dado que, de no reportar ganancias, resulta impo
 
 Pero la opacidad no es endémica de los aparatos laboristas del Estado (CONASAMI o STyPS) el propio Congreso de la Unión, según lo declarado a este medio de comunicación, estipula que a pesar de contemplar con un área especifica de estudios legislativos con el cual los asambleístas pueden contar con asesoría especializada en caso de requerir información sobre cualquier tema o ley, su reglamento interno, niega a la ciudadanía la posibilidad de tener acceso a dicha información sobre estudios solicitados por las diferentes fracciones parlamentarias previamente a la aprobación de una ley.
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="{{ site.baseurl }}/assets/1636.pdf" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-</div>
-<br>
-
+[PNT_CEDIP]
 *Crédito: Ricardo Balderas*
 
 También se niegan entregar información, solicitada vía Plataforma Nacional de Acceso a a la Información, sobre su lista de asistencia al recinto legislativo por lo que resulta imposible saber si siquiera estuvieron presentes durante las sesiones.
