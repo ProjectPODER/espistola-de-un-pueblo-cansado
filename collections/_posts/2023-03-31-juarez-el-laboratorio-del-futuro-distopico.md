@@ -27,8 +27,44 @@ Este indicador, el de la inversión extranjera en Juárez, revela el modo en que
 
 Debido a que lo producido por la industria de la manufactura (maquilas) es exportado de manera directa, el valor del trabajador fronterizo cotiza en dólares y no en moneda nacional, esto también eleva los costos de vivienda y servicios en los más de 40 municipios que conforman la Zona de la Frontera Norte.
 
-[Gráficos_Juárez]
+
+<div id="carouselControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/CUIDADOHIJ.png" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/ESCOLARIDAD.png" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/FORMALIDAD.png" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/MujeresvsHombresManufactura.png" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/SALARIOSMINIMOS.png" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/SeguridadSocial.png" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/TIPOCONTRATO.png" alt="Third slide">
+    </div>
+  </div>
+  <div class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </div>
+  <div class="carousel-control-next" href="#carouselControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </div>
+</div>
+<br>
+
 *Créditos: Autogenerados por PODER con la información de la ENOE. Samuel Rosado-Zaidi.*
+
 
 ### Investigar a la industria en un estado represor
 
@@ -40,9 +76,10 @@ Entonces, más allá de los números, el periodismo local continúa realizando e
 
 “El gran reto, o el reto mayor, es el de contar lo que ocurre, contar la verdad. Es muy difícil conseguir información sobre lo que ocurre dentro de las empresas. (...) Por varias cosas pero principalmente por la violencia económica a la que estamos sujetos todos en este país”, explica Gallegos.
 
-<div class="embed-responsive embed-responsive-21by9">
+<div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://youtu.be/V0d_S4bieh8" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 </div>
+<br>
 
 *Créditos: Ricardo Balderas*
 
@@ -63,8 +100,36 @@ En mitad de esa trayectoria, Terrazas Torres logró adentrarse en la política n
 En las fichas elaboradas por el departamento de inteligencia mexicano, se puede leer la postura de Terrazas respecto al aumento del costo del gas, tortillas, electricidad, pan y gasolina del cual comenta: “ES drástico pero necesario para salir de una economía de ficción”. El objetivo de dicho aumento era el de generar inflación (y reducir el poder adquisitivo del salario).
 
 
-[galería_DFS: ]
-Créditos: Archivo General de la Nacion, Ricardo Balderas.
+<div id="carouselControls2" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/IMG_20210514_145500.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/IMG_20210514_145453.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/IMG_20210514_145431.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/IMG_20210514_145423.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/IMG_20210514_145442.jpg" alt="Third slide">
+    </div>
+  </div>
+  <div class="carousel-control-prev" href="#carouselControls2" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </div>
+  <div class="carousel-control-next" href="#carouselControls2" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </div>
+</div>
+<br>
+
+*Créditos: Archivo General de la Nacion, Ricardo Balderas.*
 
 El señor Terrazas falleció. Y ahora, su hijo,  Federico Terrazas Becerra ocupa su lugar frente a empresa cementera de su padre y continúan siendo una de las familias con más poder en el país. Los juarenses, en cambio, se organizan para hacer frente a los colosos de concreto que rompen huesos, enferman a la gente y se quedan con los terrenos de la ciudad. Industrias, donde pasas toda una vida trabajando para familias como los Terrazas, sin tener una opción que te permita salir de ese circulo de carencias.
 

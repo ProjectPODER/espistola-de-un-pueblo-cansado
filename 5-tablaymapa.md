@@ -184,22 +184,6 @@ permalink: /tabla/
 
 <br>
 
-### Línea del tiempo
-
-<div class="embed-responsive embed-responsive-custom">
-  <iframe class="embed-responsive-item" src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1NDeXwAm747WnXDGl0bNA2SEWOeDiSc4KgdKQtSKz3gE&font=Default&lang=en&initial_zoom=2&height=650" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-</div>
-<br>
-
-Explicación:
-
-Relación de salarios por sexenio. A cuánto ascendía el salario mínimo para la industria al inicio y final de los sexenios de Vicente Fox, Felipe Calderón, Enrique Peña Nieto y Andrés Manuel López Obrador. Cuál era la tasa de inflación de esos sexenios en relación al salario, es decir, cuánto poder adquisitivo perdió el salario durante las diferentes presidencias de la república.
-
-
-*Créditos: Samuel Rosado y Ricardo Balderas*
-
-<br>
-
 ### Juxtapose
 
 <div class="embed-responsive embed-responsive-4by3">

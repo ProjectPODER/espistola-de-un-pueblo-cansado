@@ -69,7 +69,7 @@ Para este proyecto, PODER, analizó información referente a los años que compr
 - Análisis de datos: Samuel Rosado y Ricardo Balderas
 - Diseño gráfico y desarrollo front-end: Marisol Carrillo
 - Desarrollo back-end: Marisol Carrillo
-- Ilustración y material gráfico: Ricardo Balderas y Samuel
+- Ilustración y material gráfico: Ricardo Balderas y Samuel Rosado
 
 Agradecemos a la Facultad de Economía de la Universidad Nacional Autónoma de México (UNAM) por la disposición y las facilidades en este proyecto. A todo el equipo de PODER por siempre luchar por un lugar más justo en el mundo.
 

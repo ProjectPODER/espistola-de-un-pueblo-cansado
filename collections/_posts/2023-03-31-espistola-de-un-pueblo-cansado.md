@@ -17,12 +17,19 @@ Ante lo evidente, una de las primeras acciones del gobierno morenista, liderado 
 
 Dicho monto fue mucho mayor, incluso, al ocurrido con el autodenominado *"presidente del empleo"*, Felipe Calderón Hinojosa quien durante su gestión incremento en 28.6% los sueldos de las personas trabajadoras. Sin embargo, la medida resulta ineficiente dadas las altas tasas de inflación y la omisión de las autoridades por implementar medidas que logren una recaudación eficiente. De modo que, además de insuficiente, en el país (y ya con Obrador en la Silla Presidencial), se continúa protegiendo a la industria de manufactura que, año con año, confabula junto a políticos para someter a los y las trabajadoras de México a una pobreza de la que ya resulta imposible salir.
 
+#### Línea del tiempo
+
 <div class="embed-responsive embed-responsive-custom">
   <iframe class="embed-responsive-item" src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1NDeXwAm747WnXDGl0bNA2SEWOeDiSc4KgdKQtSKz3gE&font=Default&lang=en&initial_zoom=2&height=650" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 </div>
 
-*Crédito: Autogenerado por PODER, Samuel Rosado y Ricardo Balderas.*
+Explicación:
 
+Relación de salarios por sexenio. A cuánto ascendía el salario mínimo para la industria al inicio y final de los sexenios de Vicente Fox, Felipe Calderón, Enrique Peña Nieto y Andrés Manuel López Obrador. Cuál era la tasa de inflación de esos sexenios en relación al salario, es decir, cuánto poder adquisitivo perdió el salario durante las diferentes presidencias de la república.
+
+*Créditos: Samuel Rosado y Ricardo Balderas*
+
+<br>
 De modo que, con los datos reportados de manera oficial, podemos saber cuántos trabajadores del sector manufactura existe, cuanto tiempo trabajan al día, cuanto ganan esos trabajadores por hora, la identidad de género de las personas que trabajan, qué tipo de contrato tienen, en qué tipo de industria opera y en dónde, a cuánto dinero equivale la producción de estos obreros y en cuánto tiempo se genera esa producción. Lo que no podemos saber, es cuánto dinero termina como ganancia. Es decir, lo que los dueños del capital producen con el esfuerzo del trabajador.
 
 Sin embargo, para la diputada y abogada laborista integrante de la Comisión del Trabajo en la Cámara Baja, Susana Prieto Terrazas, el problema radica principalmente en que los gobiernos terminan trabajando para las empresas y no para la población. Desde su perspectiva, la Comisión Nacional de Salarios Mínimos (CONASAMI) ha operado desde su fundación a favor de las empresas y no de los trabajadores. Por ese motivo, los trabajadores se encuentran plenamente registrados, mientras que los empresarios se ven protegidos por sindicatos que no velan por las necesidades de quienes los conforman.
@@ -34,10 +41,10 @@ PODER solicitó entrevista a las oficinas de la CONASAMI para solicitar los estu
 Sobre la información respecto a las empresas que lucran con el trabajo obrero, con la información que actualmente es pública, no podemos saber a cuánto ascienden las ganancias de este sector que constantemente se encuentra inmiscuido en casos de trata con fines explotación, tráfico de drogas y violaciones a los derechos medioambientales. Los registros del INEGI se limitan a definir el comportamiento de las poblaciones dentro de la industria pero no existen reglamentos o leyes que obliguen a las empresas a reportar ganancias.
 
 
-<div class="embed-responsive embed-responsive-21by9">
+<div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://youtu.be/L8ItxeGGuDg" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 </div>
-
+<br>
 *Créditos: Ricardo Balderas*
 
 Lo anterior resulta preocupante dado que, de no reportar ganancias, resulta imposible saber si el salario de las personas es equivalente a la ganancia por producción. Eso, sin mencionar que los datos de respecto a la seguridad social de la población ocupada son imprecisos.
@@ -94,10 +101,10 @@ La abogada y académica comenta para PODER que existen, conceptualmente, dos man
 
 “La ruta sigue siendo la del sindicalismo. Es la única manera de encargarnos colectivamente de nuestros derechos. Yo sí le daría un voto de confianza. (…) existe este grupo de empresas grandes y transnacionales que llegan, precisamente de otros países, y que a partir de estas situaciones también se hacen modificaciones a nuestra Constitución, se hacen modificaciones del concepto de trabajo para poder en este caso, proteger en este caso a estos empleadores o industrias”, explica la abogada. A esto se le conoce como Lobby, un grupo no definido de personas que impulsan privilegios para las empresas desde los congresos locales y nacionales.
 
-<div class="embed-responsive embed-responsive-21by9">
+<div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://youtu.be/YnSAEFj4Opk" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 </div>
-
+<br>
 *Crédito: Ricardo Balderas*
 
 Qué es el salario: Descargue [aquí](https://share.mayfirst.org/s/bmYkcLcncS3wZp8)
