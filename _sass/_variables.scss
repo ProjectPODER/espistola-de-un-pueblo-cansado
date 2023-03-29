@@ -48,9 +48,9 @@ $graphTooltipTitleColor: $info;
 // Links
 //
 // Style anchor elements.
-$link-color:                $primary !default;
+$link-color:                $green !default;
 $link-decoration:           none !default;
-$link-hover-color:          darken($link-color, 80%) !default;
+$link-hover-color:          $white !default;
 $link-hover-decoration:     underline !default;
 
 

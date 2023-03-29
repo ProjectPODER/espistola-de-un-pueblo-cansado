@@ -16,8 +16,6 @@ Con este trabajo l@s estudiantes y periodistas que conformamos la OFE pretendemo
 
 
 
-<br>
-
 ### ¿Qué información encontrarás?:
 
 
@@ -44,7 +42,6 @@ Para este proyecto, PODER, analizó información referente a los años que compr
 6. Censo de población y vivienda 2020 (habitantes por entidad y densidad de la industria por entidad)
 7. Tipo de cambio de Banxico (2008-2020)
 
-<br>
 
 ### Fuentes:
 
@@ -56,7 +53,6 @@ Para este proyecto, PODER, analizó información referente a los años que compr
 
 **Documentos del Archivo General de la Nación (AGN):** Expedientes de la Dirección Federal de Seguridad.
 
-<br>
 
 ### Créditos:
 
