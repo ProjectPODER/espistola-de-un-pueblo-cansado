@@ -4,6 +4,9 @@ title: Epístola de un pueblo cansado
 author: "Ricardo Balderas"
 ---
 
+_En México, los ingresos que obtiene la industria rebasan a los salarios de los obreros en 282.57%, es decir, casi cuatro veces el valor los salarios. Esta circunstancia de desequilibro, coloca a México, de acuerdo a información de la OCDE, como uno de los países con la participación más bajas del salario con respecto al producto, Suiza, por ejemplo, es el país que más destina porcentaje de ese ingreso al salario de las personas_.
+
+
 De la maquinaría al dormitorio, la vida en una fábrica para cualquier persona en México, implica una realidad particular, una ya muy insostenible por la constante depreciación del valor de la fuerza de trabajo. En el país, según lo revelan datos del Instituto Nacional de Geografía y Estadística (INEGI) y analizados por PODER, el promedio de tiempo en que un obrero/a, que labora en la industria de la manufactura, produce el valor total de su salario es de 24.67 minutos. El resto de la jornada, es decir, 455.33 minutos, son la riqueza que termina en manos del empleador.
 
 Debido a esto, el proyecto para impulsar a la industria de manufactura en el país que implementado a mediados de los años sesentas (1964) del siglo pasado[^nota1] y operado desde los cónclaves más profundos de la frontera norte[^nota2], se encuentra en un estado de alarma por las condiciones laborales a las que se le somete a todas las personas que pasan por alguno de los andadores de estos colosos de la producción. Además, no sólo el valor monetario del trabajo se ha devaluado, también las condiciones que ofrecen las empresas, a los y las trabajadoras, son peores que las de hace algunos años.
@@ -70,7 +73,7 @@ PODER solicitó al Centro de Estudios Parlamentarios, dirección de la Cámara d
   <iframe class="embed-responsive-item" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=a4e0a320-c90d-11ed-b5bd-6595d9b17862" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 </div>
 
-*Créditos: Ricardo Balderas y Samuel Rosado con datos del INEGI.*
+*Créditos: Ricardo Balderas y Samuel Rosado-Zaidi con datos del INEGI.*
 
 
 ### Los 30 minutos más largos de nuestras vidas y la crisis de pensiones
