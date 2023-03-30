@@ -36,9 +36,7 @@ Cualquiera ha escuchado estas palabras:
 
 Salario, salario diario integrado, salario base de cotización, salario mínimo, por lo que es importante conocer las diferencias entre éstas, a efecto de poder ejercer los derechos laborales y a la seguridad social que tienen las personas trabajadoras.
 
-#### Salario diario
-
-Ley Federal del Trabajo.
+#### Salario diario: Ley Federal del Trabajo.
 
 **¿Qué es el salario?**
 
@@ -48,7 +46,7 @@ Ley Federal del Trabajo.
 
 **Artículo 84.-** El salario se **integra** con los pagos hechos en efectivo por cuota diaria, gratificaciones, percepciones, habitación, primas, comisiones, prestaciones en especie y cualquiera otra cantidad o prestación que se entregue al trabajador **por** su trabajo. (ya sea en dinero o en especie)
 
-##### Remunerador
+##### El Remunerador
 
 Para fijar el importe del salario se tomarán en consideración la cantidad y calidad del trabajo.
 
@@ -66,7 +64,7 @@ De conformidad al **artículo 27** de la Ley del Seguro Social, es con el que co
 
 **Artículo 90.-** Salario mínimo es **la cantidad menor** que debe recibir en efectivo la persona trabajadora por los servicios prestados en una jornada de trabajo. El salario mínimo deberá ser suficiente para satisfacer las necesidades normales de una o un jefe de familia en el orden material, social y cultural, y para proveer a la educación obligatoria de las y los hijos.
 
-La determinación de la cantidad depende de las zonas geográficas,  independientemente de las ramas de la actividad económica, profesiones, oficios o trabajos especiales.
+La determinación de la cantidad depende de las zonas geográficas, independientemente de las ramas de la actividad económica, profesiones, oficios o trabajos especiales.
 
 ### ¿Cuál es la importancia de cada uno de éstos y para qué me sirve identificar las diferencias?
 
