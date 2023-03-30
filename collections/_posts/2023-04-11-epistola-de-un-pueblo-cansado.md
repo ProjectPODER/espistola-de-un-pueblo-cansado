@@ -4,7 +4,7 @@ title: Epístola de un pueblo cansado
 author: "Ricardo Balderas"
 ---
 
-_En México, los ingresos que obtiene la industria rebasan a los salarios de los obreros en 282.57%, es decir, casi cuatro veces el valor los salarios. Esta circunstancia de desequilibro, coloca a México, de acuerdo a información de la OCDE, como uno de los países con la participación más bajas del salario con respecto al producto, Suiza, por ejemplo, es el país que más destina porcentaje de ese ingreso al salario de las personas_.
+_En México, los ingresos que obtiene la industria rebasan a los salarios de los obreros en 282.57%, es decir, casi cuatro veces el valor los salarios_.
 
 
 De la maquinaría al dormitorio, la vida en una fábrica para cualquier persona en México, implica una realidad particular, una ya muy insostenible por la constante depreciación del valor de la fuerza de trabajo. En el país, según lo revelan datos del Instituto Nacional de Geografía y Estadística (INEGI) y analizados por PODER, el promedio de tiempo en que un obrero/a, que labora en la industria de la manufactura, produce el valor total de su salario es de 24.67 minutos. El resto de la jornada, es decir, 455.33 minutos, son la riqueza que termina en manos del empleador.
