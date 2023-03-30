@@ -28,6 +28,8 @@ permalink: /entrevistas/
 Esto es lo que dice la ley sobre el salario:
 
 {:.text-center}
+
+Por: Verónica Alcaráz
 ## ¿QUÉ ES EL SALARIO?
 
 Cualquiera ha escuchado estas palabras:
