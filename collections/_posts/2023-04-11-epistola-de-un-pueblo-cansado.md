@@ -28,7 +28,7 @@ Dicho monto fue mucho mayor, incluso, al ocurrido con el autodenominado *"presid
 
 Explicación:
 
-Relación de salarios por sexenio. A cuánto ascendía el salario mínimo para la industria al inicio y final de los sexenios de Vicente Fox, Felipe Calderón, Enrique Peña Nieto y Andrés Manuel López Obrador. Cuál era la tasa de inflación de esos sexenios en relación al salario, es decir, cuánto poder adquisitivo perdió el salario durante las diferentes presidencias de la república.
+_Relación de salarios por sexenio. A cuánto ascendía el salario mínimo para la industria al inicio y final de los sexenios de Vicente Fox, Felipe Calderón, Enrique Peña Nieto y Andrés Manuel López Obrador. Cuál era la tasa de inflación de esos sexenios en relación al salario, es decir, cuánto poder adquisitivo perdió el salario durante las diferentes presidencias de la república_.
 
 *Créditos: Samuel Rosado-Zaidi y Ricardo Balderas*
 
