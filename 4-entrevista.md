@@ -116,28 +116,37 @@ No se debe perder de vista, que la Ley Federal del Trabajo busca un equilibrio e
       <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0247.jpg" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0264.jpg" alt="Third slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0264.jpg" alt="Fourth slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0288.jpg" alt="Third slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0288.jpg" alt="Fifth slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0298.jpg" alt="Third slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0298.jpg" alt="Sixth slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0307.jpg" alt="Third slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0307.jpg" alt="Seventh slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0330.jpg" alt="First slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0330.jpg" alt="Eighth slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0332.jpg" alt="First slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0332.jpg" alt="Ninth slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0339.jpg" alt="First slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0339.jpg" alt="Tenth slide">
     </div>
      <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0356.jpg" alt="First slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0356.jpg" alt="Eleventh slide">
+    </div>
+     <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0372.jpg" alt="Twelfth slide">
+    </div>
+     <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0412.jpg" alt="Thirteenth slide">
+    </div>
+     <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0414.jpg" alt=" Fourteenth slide">
     </div>
   </div>
   <div class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
