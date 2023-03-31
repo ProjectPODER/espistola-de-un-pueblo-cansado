@@ -102,7 +102,7 @@ No se debe perder de vista, que la Ley Federal del Trabajo busca un equilibrio e
 - **IGUALDAD SALARIAL:** En caso de igualdad en la calidad y cantidad de trabajo.
 
 _________________________________________________________________________
-###Galería
+###Galería de la frontera:
 
 <div id="carouselControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
@@ -127,8 +127,17 @@ _________________________________________________________________________
     <div class="carousel-item">
       <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0307.jpg" alt="Third slide">
     </div>
-    <div class="carousel-item active">
+    <div class="carousel-item">
       <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0330.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0332.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0339.jpg" alt="First slide">
+    </div>
+     <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0356.jpg" alt="First slide">
     </div>
   </div>
   <div class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
@@ -144,3 +153,5 @@ _________________________________________________________________________
 
 *Créditos: Ricardo Balderas 
 
+
+_____________________________________________
