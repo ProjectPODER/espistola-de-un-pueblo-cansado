@@ -100,3 +100,45 @@ No se debe perder de vista, que la Ley Federal del Trabajo busca un equilibrio e
 - **EL TRABAJO NO ES UNA MERCANCÍA:** El trabajo no debe considerarse un bien en el mercado, para evitar que esté a merced de las leyes de la oferta y la demanda.
 - **IN DUBIO PRO OPERARIO:** En caso de duda prevalecerá la interpretación más favorable al trabajador.
 - **IGUALDAD SALARIAL:** En caso de igualdad en la calidad y cantidad de trabajo.
+
+
+<div id="carouselControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0237.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0240.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0247.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0264.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0288.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0298.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0307.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0330.jpg" alt="First slide">
+    </div>
+  </div>
+  <div class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </div>
+  <div class="carousel-control-next" href="#carouselControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </div>
+</div>
+<br>
+
+*Créditos: Ricardo Balderas 
+
