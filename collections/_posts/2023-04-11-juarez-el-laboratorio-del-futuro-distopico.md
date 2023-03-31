@@ -137,6 +137,69 @@ El señor Terrazas falleció. Y ahora, su hijo,  Federico Terrazas Becerra ocupa
 <br>
 <hr style= "background:rgba(255,255,255,0.7);">
 
+
+
+### Galería de la frontera:
+
+<div id="carouselControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0237.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0240.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0247.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0264.jpg" alt="Fourth slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0288.jpg" alt="Fifth slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0298.jpg" alt="Sixth slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0307.jpg" alt="Seventh slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0330.jpg" alt="Eighth slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0332.jpg" alt="Ninth slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0339.jpg" alt="Tenth slide">
+    </div>
+     <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0356.jpg" alt="Eleventh slide">
+    </div>
+     <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0372.jpg" alt="Twelfth slide">
+    </div>
+     <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0412.jpg" alt="Thirteenth slide">
+    </div>
+     <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0414.jpg" alt="Fourteenth slide">
+    </div>
+  </div>
+  <div class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </div>
+  <div class="carousel-control-next" href="#carouselControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </div>
+</div>
+<br>
+
+**Créditos: Ricardo Balderas** 
+
+
 ##### *Sobre los datos:*
 
 *Los gráficos fueron generados con base en los datos de la Encuesta Nacional de Ocupación y Empleo para el último trimestre de 2022 (Octubre-Diciembre). Muestran las condiciones particulares de lxs trabajadores plenamente ocupadxs en la manufactura a nivel nacional. Se analizó la distribución de lxs trabajadores de la manufactura por identificación sexogenérica, escolaridad, acceso a seguridad social, tipo de contratación con la empresa en la que laboran, cantidad de salarios mínimos que reciben, su condición de formalidad o informalidad de su trabajo y, por último, el número de hijxs bajo el cuidado de mujeres trabajando en la industria manufacturera.*
