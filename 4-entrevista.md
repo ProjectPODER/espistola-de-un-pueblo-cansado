@@ -101,6 +101,8 @@ No se debe perder de vista, que la Ley Federal del Trabajo busca un equilibrio e
 - **IN DUBIO PRO OPERARIO:** En caso de duda prevalecerá la interpretación más favorable al trabajador.
 - **IGUALDAD SALARIAL:** En caso de igualdad en la calidad y cantidad de trabajo.
 
+_________________________________________________________________________
+###Galería
 
 <div id="carouselControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
