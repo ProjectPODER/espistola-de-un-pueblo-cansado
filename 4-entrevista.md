@@ -146,7 +146,7 @@ No se debe perder de vista, que la Ley Federal del Trabajo busca un equilibrio e
       <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0412.jpg" alt="Thirteenth slide">
     </div>
      <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0414.jpg" alt=" Fourteenth slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/DSC_0414.jpg" alt="Fourteenth slide">
     </div>
   </div>
   <div class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
@@ -160,7 +160,7 @@ No se debe perder de vista, que la Ley Federal del Trabajo busca un equilibrio e
 </div>
 <br>
 
-*Créditos: Ricardo Balderas 
+**Créditos: Ricardo Balderas** 
 
 
 _____________________________________________
