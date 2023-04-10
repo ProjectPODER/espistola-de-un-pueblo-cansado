@@ -6,15 +6,10 @@ permalink: /entrevistas/
 
 # Entrevistas
 
-  <div class="row mb-5">
+  <div class="row">
     <div class="col-sm">
       <div class="embed-responsive embed-responsive-16by9">
         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/V0d_S4bieh8" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-      </div>
-    </div>
-    <div class="col-sm">
-      <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YnSAEFj4Opk" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
       </div>
     </div>
     <div class="col-sm">
@@ -23,6 +18,15 @@ permalink: /entrevistas/
       </div>
     </div>
   </div>
+  <div class="row">
+    <div class="col-12">
+      <h5>Entrevista con la abogada laborista, Verónica Alcaráz </h5>
+      <div class="text-center">
+        <audio class="w-100" src="/assets/Entrevista.m4a" preload="none" controls></audio>
+      </div>
+    </div>
+  </div>
+  <br>
 <hr style= "background:rgba(255,255,255,0.7);">
 <br>
 Esto es lo que dice la ley sobre el salario:
