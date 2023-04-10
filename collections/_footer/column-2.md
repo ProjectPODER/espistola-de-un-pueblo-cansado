@@ -1,6 +1,6 @@
 ---
 title: Apoyo de
-image-logo: logoPODER_19.png
-image-name: Logo de PODER
+image-logo: Escudo-UNAM.png
+image-name: Logo de UNAM
 width-logo: 100px
 ---

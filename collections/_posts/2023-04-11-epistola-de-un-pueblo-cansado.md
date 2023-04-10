@@ -90,11 +90,11 @@ La primer ruta es la de la tasa de explotación con respecto al valor nacional (
 
 Esta tasa mide qué tantas veces es mayor el valor de la producción en relación con los salarios. Por ejemplo, en el Estado de México es de 2,825%, es decir, que la producción en una jornada de trabajo vale 28 veces más que el salario, o que el patrón se queda con 28 veces más riqueza que la que se queda le trabajador. Visto desde una jornada diaria de 8 horas, le trabajador cubriría su salario en tan solo 16.4 minutos y las restantes 7 horas y 44 minutos serían tiempo dedicado a la riqueza de la empresa.
 
-La tasa de explotación respecto al valor de las exportaciones (es decir, el valor registrado en dólares que cruza la frontera) consiste en comparar el valor total de las exportaciones manufactureras con el salario (en pesos) y las horas trabajadas como son las registradas en México hasta el 2018. 
+La tasa de explotación respecto al valor de las exportaciones (es decir, el valor registrado en dólares que cruza la frontera) consiste en comparar el valor total de las exportaciones manufactureras con el salario (en pesos) y las horas trabajadas como son las registradas en México hasta el 2018.
 
 En comparación con la primera forma, de la tasa de explotación, ésta mide qué tantas veces es el valor de las exportaciones manufactureras en relación con los salarios nacionales (pesos).
 
-En la cual, destaca el estado de Chihuahua, cuya tasa de explotación bajo la primera forma (valor nacional) es de 226%, mientras que en relación con el valor de las exportaciones (segunda forma) es de 2,651% (26 veces mayor). 
+En la cual, destaca el estado de Chihuahua, cuya tasa de explotación bajo la primera forma (valor nacional) es de 226%, mientras que en relación con el valor de las exportaciones (segunda forma) es de 2,651% (26 veces mayor).
 
 De este modo podemos saber que, bajo la primera forma, el patrón parece quedarse con poco más del doble del valor de lo que se queda un trabajador. Pero tomando en cuenta que la mayoría de la producción manufacturera en la frontera no se queda en México, sino que se va principalmente a EUA, esta tasa es considerablemente mayor ya que el patrón, al vender en divisa extranjera y con mayor valor a la nacional, se quedaría con 26 veces más que un trabajador.
 
@@ -139,8 +139,8 @@ La abogada y académica comenta para PODER que existen, conceptualmente, dos man
 
 “La ruta sigue siendo la del sindicalismo. Es la única manera de encargarnos colectivamente de nuestros derechos. Yo sí le daría un voto de confianza. (…) existe este grupo de empresas grandes y transnacionales que llegan, precisamente de otros países, y que a partir de estas situaciones también se hacen modificaciones a nuestra Constitución, se hacen modificaciones del concepto de trabajo para poder en este caso, proteger a estos empleadores o industrias”, explica la abogada. A esto se le conoce como _lobby_, un grupo no definido de personas que impulsan privilegios para las empresas desde los congresos locales y nacionales.
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YnSAEFj4Opk" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<div class="text-center">
+  <audio class="w-100" src="/assets/Entrevista.m4a" preload="none" controls></audio>
 </div>
 <br>
 *Crédito: Ricardo Balderas*
@@ -154,7 +154,7 @@ Es decir, tras las modificaciones en 2023 del pago de aportaciones a la segurida
 
 
 ______
-_Sobre los porcentajes y el tiempo: 
+_Sobre los porcentajes y el tiempo:
 En este punto se simplificó la lectura de los números para hacer este apartado técnico más accesible al público. No obstante, para leer un porcentaje en veces, es necesario dividir entre 100 y sumarle 1. Es decir, 226% sería 3.2 veces y  2,651% sería 27.5 veces_.
 
 
