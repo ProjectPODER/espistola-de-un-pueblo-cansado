@@ -140,7 +140,7 @@ La abogada y académica comenta para PODER que existen, conceptualmente, dos man
 “La ruta sigue siendo la del sindicalismo. Es la única manera de encargarnos colectivamente de nuestros derechos. Yo sí le daría un voto de confianza. (…) existe este grupo de empresas grandes y transnacionales que llegan, precisamente de otros países, y que a partir de estas situaciones también se hacen modificaciones a nuestra Constitución, se hacen modificaciones del concepto de trabajo para poder en este caso, proteger a estos empleadores o industrias”, explica la abogada. A esto se le conoce como _lobby_, un grupo no definido de personas que impulsan privilegios para las empresas desde los congresos locales y nacionales.
 
 <div class="text-center">
-  <audio class="w-100" src="/assets/Entrevista.m4a" preload="none" controls></audio>
+  <audio class="w-100" src="{{ site.baseurl }}/assets/Entrevista.m4a" preload="none" controls></audio>
 </div>
 <br>
 *Crédito: Ricardo Balderas*
