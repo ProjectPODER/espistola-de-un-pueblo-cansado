@@ -22,7 +22,7 @@ permalink: /entrevistas/
     <div class="col-12">
       <h5>Entrevista con la abogada laborista, Verónica Alcaráz </h5>
       <div class="text-center">
-        <audio class="w-100" src="/assets/Entrevista.m4a" preload="none" controls></audio>
+        <audio class="w-100" src="{{ site.baseurl }}/assets/Entrevista.m4a" preload="none" controls></audio>
       </div>
     </div>
   </div>
