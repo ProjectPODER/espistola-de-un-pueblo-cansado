@@ -162,3 +162,30 @@ En este punto se simplificó la lectura de los números para hacer este apartado
 
 [^nota2]: (Ídem).
 [^nota3]: [INEGI (2018). Sistema de Clasificación Industrial. Códigos 31 y 33.](https://www.inegi.org.mx/app/scian/)
+
+<br>
+<hr style= "background:rgba(255,255,255,0.7);">
+
+
+### Réplica del ciudadano, Noé Luis Ortiz:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="{{ site.baseurl }}/assets/Carta PROCESO derecho de réplica.pdf" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+</div>
+<br>
+
+### Respuesta del periodista, Ricardo Balderas:
+
+A quien corresponda
+
+El que suscribe, Ricardo Balderas, periodista de investigación en PODER y autor del reportaje “Epístola de un pueblo cansado” leo con sorpresa las aseveraciones documentadas en la respuesta redactada por el ciudadano, Noé Luis Ortíz, debido a que personalmente, y con el apoyo del equipo legislativo de la diputada Susana Prieto Terrazas, solicité una entrevista y acceso a información relacionada a las opiniones técnicas emitidas por el departamento de Estudios de Constitucionalidad en el Centro de Estudios de Derecho e Investigaciones Parlamentarias de la Cámara de Diputados, respecto a la ley aprobada de aumento salarial y de la cual, **reitero**, no obtuve respuesta alguna.
+
+Lo anterior ocurrió el día 14 de marzo del año en curso, y el apoyo (de solicitud) fue brindado por la ciudadana Tamara Cuadros, asistente legislativa de la diputada en cuestión, a quienes pueden consultar y fungen como testigos del hecho.
+
+El día que su servidor solicitó esta información, dicha área se encontraba ubicada en una sección al fondo de la biblioteca del recinto legislativo (Información que yo desconocería de no ser porque efectivamente acudí en persona) y el señor Noé Luis Ortíz se encontraba frente a mi junto a una mujer con quien dialogaba cuando personalmente observé que su compañera de trabajo (quien no se identificó) compartió mi solicitud de atención para después ser rechazado por los argumentos descritos en el reportaje. Sin más que comentar al respecto, reitero mi interés por conocer las opiniones y estudios respecto a la ley de aumento salarial.
+
+<div class="embed-responsive embed-responsive-1by1">
+  <iframe class="embed-responsive-item" src="{{ site.baseurl }}/assets/Ingreso Ricardo Balderas.pdf" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+</div>
+<br>
+<br>
